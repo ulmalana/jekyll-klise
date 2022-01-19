@@ -1,10 +1,10 @@
 # Site settings
 title: Riz Maulana # site title
 description: >- # site description
-  Riz's website.
+  Riz Maulana's blog.
 lang: en-US # default lang
 timezone: Asia/Jakarta # set your timezone
-image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
+image: assets/img/m.png # This image used for Open Graph more info https://ogp.me/
 repo: https://github.com/ulmalana/jekyll-klise # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
@@ -12,7 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Riz Maulana # author name
   bio: >- # tell to the world
-    Regular IT Guy. Homo ngapakensis.
+    Regular IT Guy. Homo ngapakensis. Write mostly in Indonesian.
   username: username # general username
   github: ulmalana # github username
   twitter: ulmalana # twitter username
