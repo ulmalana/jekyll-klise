@@ -2,9 +2,7 @@
 title: "Habis Ini Mau Ke Mana?"
 published: 2021-01-01
 tags: [Kuliah, Tulisan Bebas]
-description: "Hai.
-
-Ya, saya masih hidup."
+description: "Hai. Ya, saya masih hidup."
 ---
 
 Hai.
